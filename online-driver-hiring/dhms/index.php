@@ -119,7 +119,7 @@ foreach($results as $result)
                            <div class="col-lg-3 col-sm-6">
                                 <div class="product-item">
                                    
-                                        <img src="drivers/UploadPhoto/img14.png" alt="" style="width: 200px; height: 200px;">
+                                        <img src="drivers/UploadPhoto/img14.png" alt="" style="width: 260px; height: 260px;">
                                        <?php $driveruserid=$result->id;?>
                                     <div class="pi-text">
                         <!--        <h5><?php echo htmlentities($result->name);?></h5></a> -->
